@@ -1,0 +1,77 @@
+body {
+  background: rgb(250, 250, 250);
+  background-image: linear-gradient(
+    100deg,
+    rgb(250, 250, 250),
+    rgb(30, 205, 141)
+  );
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.fort-campbell-img {
+  border: 3px inset white;
+}
+
+.dad-name-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.dad-job-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.dad-info-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.dad-image-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.links-container {
+  position: initial;
+  text-align: center;
+}
+
+.links-img-cont {
+  position: absolute;
+  width: 25vw;
+  text-align: center;
+}
+
+.link-image {
+  border: 3px inset white;
+}
+
+.dad-mom-pic {
+  border: 3px inset white;
+  width: 425px;
+  height: 400px;
+}
+
+.army {
+  justify-content: center;
+  border: 2px inset white;
+}
+
+table {
+  width: max-content;
+}
+
+.army-pic {
+  border: 3px inset white;
+  width: 500px;
+  height: 400px;
+}
+
+.achievement-table {
+  align-content: center;
+  border: rgb(250, 250, 250) 3px inset;
+  width: 33vw;
+}
